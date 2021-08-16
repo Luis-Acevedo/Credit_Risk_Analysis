@@ -78,7 +78,7 @@ Our team has been hired to test credit card data for bias and apply new machine 
 
       * Recall: .56
 
-- ![Bal_ran_for](https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/bal_ran_for.png)
+- ![Bal_ran_for](https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Bal_ran_for.png)
 
   - BalancedRandomForestClassifier Results
 
