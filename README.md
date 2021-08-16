@@ -6,7 +6,7 @@ Our team has been hired to test credit card data for bias and apply new machine 
 
 ## Machine Learning Model Tests
 
-- ![Naive]("https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Naive.png")
+- ![Naive](https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Naive.png)
 
   - RandomOverSampler Results
 
