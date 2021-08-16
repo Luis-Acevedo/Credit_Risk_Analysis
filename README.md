@@ -24,7 +24,7 @@ Our team has been hired to test credit card data for bias and apply new machine 
 
       * Recall: .64
 
-- ![Smote]("https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Smote.png")
+- ![Smote](https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Smote.png)
 
   - SMOTE Results
 
@@ -42,7 +42,7 @@ Our team has been hired to test credit card data for bias and apply new machine 
 
       * Recall: .67
 
-- ![Undersampling]("https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Undersampling.png")
+- ![Undersampling](https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Undersampling.png)
 
   - ClusterCentroids Results
 
@@ -60,7 +60,7 @@ Our team has been hired to test credit card data for bias and apply new machine 
 
       * Recall: .46
 
-- ![Combo]("https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Combo.png")
+- ![Combo](https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Combo.png)
 
   - SMOTEENN Results
 
@@ -78,7 +78,7 @@ Our team has been hired to test credit card data for bias and apply new machine 
 
       * Recall: .56
 
-- ![Bal_ran_for]("https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/bal_ran_for.png")
+- ![Bal_ran_for](https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/bal_ran_for.png)
 
   - BalancedRandomForestClassifier Results
 
@@ -96,7 +96,7 @@ Our team has been hired to test credit card data for bias and apply new machine 
 
       * Recall: .91
 
-- ![Ensemble]("https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Ensemble.png")
+- ![Ensemble](https://github.com/Luis-Acevedo/Credit_Risk_Analysis/blob/main/Challenge/Photos/Ensemble.png)
 
   - EasyEnsembleClassifier Results
 
